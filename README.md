@@ -46,28 +46,53 @@ Current focus: building **real-world SOC workflows** and **documented AWS securi
 
 ---
 
-### 🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
-**Cloud & Security**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GuardDuty](https://img.shields.io/badge/GuardDuty-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SecurityHub](https://img.shields.io/badge/Security%20Hub-5A5AFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 🛡️ Security Tools  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+![Snort](https://img.shields.io/badge/Snort-EF3B2D?style=for-the-badge&logo=snort&logoColor=white)  
+![OPNsense](https://img.shields.io/badge/OPNsense-F58025?style=for-the-badge&logo=opnsense&logoColor=white)  
+![Metasploitable](https://img.shields.io/badge/Metasploitable-6E5494?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Development & Automation**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-**Monitoring & Analysis**  
-![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### ☁️ Cloud & Monitoring  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![GuardDuty](https://img.shields.io/badge/GuardDuty-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![SecurityHub](https://img.shields.io/badge/Security_Hub-5A5AFF?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Productivity & Design**  
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+---
+
+### 🔧 Network & Virtualization  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)  
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
+![Network Segmentation](https://img.shields.io/badge/Network_Segmentation-4A90E2?style=for-the-badge)  
+![AWS VPC](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Firewall](https://img.shields.io/badge/Firewall_Security-555555?style=for-the-badge)
+
+---
+
+### 💻 Programming & Web Technologies  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
+![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white)  
+![YAML](https://img.shields.io/badge/YAML-0000FF?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+### 🧰 Dev & Ops Tools  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
