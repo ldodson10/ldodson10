@@ -111,7 +111,7 @@ A small but practical serverless pattern:
 
 ---
 
-## 🎨 Creative & Brand Experience (Bonus Dimension)
+## 🎨 Creative & Brand Experience
 
 Before and alongside cybersecurity, I’ve worked in:
 - **Fashion & Costume Design** – Peabody & Satellite Award–winning productions
