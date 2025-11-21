@@ -49,7 +49,7 @@ Current focus: building **real-world SOC workflows** and **documented AWS securi
 ## 🌐 Featured Projects
 
 ### 1. AWS Cyber Range-Style Lab (Hands-On Compromise & Detection)
-**Repo:** `aws-cyberrange-lab` (name may vary on my profile)
+**Repo:** [aws-cyberrange-lab] (https://github.com/ldodson10/cyber-range-lab-aws)
 
 A guided AWS lab where I:
 - Simulated a compromised EC2 instance using controlled scenarios  
@@ -67,7 +67,7 @@ A guided AWS lab where I:
 ---
 
 ### 2. AWS S3 + Lambda Ingestion Pipeline
-**Repo:** `aws-s3-lambda-ingestion`
+**Repo:** [aws-s3-lambda-ingestion] (https://github.com/ldodson10/aws-s3-lambda-ingestion
 
 A small but practical serverless pattern:
 - **S3** used as an ingestion point
@@ -82,7 +82,7 @@ A small but practical serverless pattern:
 ---
 
 ### 3. “SOC it to ’EM SIEMlessly” – Team SOC / SIEM Project
-**Repo(s):** team / org repos via The Knowledge House
+**Repo(s):** [SOC it to ’EM SIEMlessly] (https://github.com/ldodson10/SOC-it-to-EM-SIEMlessly)
 
 **Problem space:** How can a small SOC (or MSSP) provide **repeatable, multi-tenant security monitoring** without drowning in manual work?
 
@@ -96,8 +96,7 @@ A small but practical serverless pattern:
 ---
 
 ### 4. GVRDC AWS Infra – “Data Quarantine Architect”
-**Repo:** `gvrdc-aws-infra` (team repo)
-
+**Repo:** [gvrdc-aws-infra] (https://github.com/nyahhepburn/gvrdc-aws-infra)
 **Scenario:** A global research defense center needs a secure, well-logged cloud footprint.
 
 **My focus**
@@ -145,8 +144,8 @@ I’m open to:
   - Help teams tell a clear, compelling story about their security posture
 
 **Let’s connect:**
-- **LinkedIn:** (add your profile link here)
+- **LinkedIn:** (https://www.linkedin.com/in/latdod/)
 - **GitHub:** `@ldodson10`
-- **Email:** (add your professional email here)
+- **Email:** (latrishadodson@gmail.com)
 
 If you’re building security programs, training pathways, or creative tech projects and need someone who can **own both the work and the documentation**, I’d love to talk.
