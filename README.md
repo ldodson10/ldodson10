@@ -46,6 +46,31 @@ Current focus: building **real-world SOC workflows** and **documented AWS securi
 
 ---
 
+### 🛠 Tools & Technologies
+
+**Cloud & Security**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/GuardDuty-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SecurityHub](https://img.shields.io/badge/Security%20Hub-5A5AFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Development & Automation**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Monitoring & Analysis**  
+![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Productivity & Design**  
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
 ## 🌐 Featured Projects
 
 ### 1. AWS Cyber Range-Style Lab (Hands-On Compromise & Detection)
