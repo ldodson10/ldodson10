@@ -92,7 +92,7 @@ A guided AWS lab where I:
 ---
 
 ### 2. AWS S3 + Lambda Ingestion Pipeline
-**Repo:** [aws-s3-lambda-ingestion] (https://github.com/ldodson10/aws-s3-lambda-ingestion
+**Repo:** [aws-s3-lambda-ingestion] (https://github.com/ldodson10/aws-s3-lambda-ingestion)
 
 A small but practical serverless pattern:
 - **S3** used as an ingestion point
