@@ -146,7 +146,7 @@ A small but practical serverless pattern:
 ---
 
 ### 4. GVRDC AWS Infra – “Data Quarantine Architect”
-**Repo:** [gvrdc-aws-infra] (https://github.com/nyahhepburn/gvrdc-aws-infra)
+**Repo:** [gvrdc-aws-infra] (https://github.com/nyahhepburn/gvrdc-aws-infra)  <br>
 **Scenario:** A global research defense center needs a secure, well-logged cloud footprint.
 
 **My focus**
