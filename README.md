@@ -1,5 +1,7 @@
 # 👋🏾 Hi, I’m Latrisha Dodson
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latdod/)
+
 **Cybersecurity Fellow | Detection & Response | Cloud Security | Creative Technologist**
 
 I design, document, and defend systems at the intersection of **cloud security**, **automation**, and **creative thinking**.  
