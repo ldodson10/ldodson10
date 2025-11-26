@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latdod/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ldodson10)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:latrishadodson@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:latrishadodson@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white)](/mnt/data/Latrisha_Dodson_Resume.pdf)
 [![PDF](https://img.shields.io/badge/PDF_Download-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](/mnt/data/Latrisha_Dodson_Resume.pdf)
 
