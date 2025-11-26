@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/latdod/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/ldodson10)
-[![Resume](https://img.shields.io/badge/Resume-orange)](/mnt/data/Latrisha_Dodson_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-orange)](Latrisha_Dodson_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:latrishadodson@gmail.com)
 
 **Cybersecurity Fellow | Detection & Response | Cloud Security | Creative Technologist**
