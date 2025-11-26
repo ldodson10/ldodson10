@@ -1,10 +1,15 @@
 # 👋🏾 Hi, I’m Latrisha Dodson
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/latdod/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ldodson10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:latrishadodson@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white)](/mnt/data/Latrisha_Dodson_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white)]()
 [![PDF](https://img.shields.io/badge/PDF_Download-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](/mnt/data/Latrisha_Dodson_Resume.pdf)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/latdod/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/ldodson10)
+[![Resume](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange)](/mnt/data/Latrisha_Dodson_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:latrishadodson@gmail.com)
 
 **Cybersecurity Fellow | Detection & Response | Cloud Security | Creative Technologist**
 
