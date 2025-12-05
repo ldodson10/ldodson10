@@ -22,37 +22,103 @@ Current focus: building real-world SOC workflows and documented AWS security lab
 
 ---
 
-### **Data Quarantine Architect / Automation Engineer — Team Project**
+### **Data Quarantine Architect / Automation Engineer — Team Capstone Project**
 
-#### **Collaborative Project: SOC it to ’EM SIEMlessly / GVRDC**
+#### **GVRDC Cyber Crisis Simulation (SOC it to ’EM SIEMlessly + GVRDC)**  
+*A unified cloud security, detection engineering, and automated containment project inspired by real-world healthcare incident response and HIPAA-driven operational requirements.*
 
-A unified, multi-phase AWS-native security monitoring and incident response project developed collaboratively by the team. The work integrates two major components:
-
----
-
-#### **1. SOC it to ’EM SIEMlessly (Sprint 6 Focus)**  
-Engineering the detection and automated response layer of the project:
-
-- Designing the **log ingestion and enrichment pipeline**  
-  CloudTrail → CloudWatch Logs → S3 → Athena  
-- Creating **detection logic** aligned with cloud activity patterns  
-- Developing **automated containment workflows** using EventBridge + Lambda  
-- Producing **architecture diagrams, runbooks, IAM reviews**, and evidence-rich documentation  
-- Demonstrating real-world SOC workflows in a cloud-native environment  
+The team developed a full-scale, end-to-end crisis simulation modeled after a healthcare research environment under active cyberattack — similar in spirit to the narrative style of *Contagion*. The project combines **cloud-native SOC operations**, **forensic investigation**, and **automated containment** into one cohesive capstone.
 
 ---
 
-#### **2. Global Viral Research Defense Center (GVRDC)**  
-Building the architectural and environmental foundation that supports the SOC workflows:
+### **Why Healthcare? Why HIPAA?**  
+Healthcare organizations operate high-value, high-risk environments where the impact of unauthorized access, data exfiltration, or operational disruption can be catastrophic. Under HIPAA, breaches involving electronic health records (ePHI) trigger strict reporting, containment, and verification requirements.
 
-- Designing **data-quarantine–focused architectures** on AWS  
-- Implementing cloud security monitoring patterns for distributed environments  
-- Structuring infrastructure components and AWS diagramming for team-based delivery  
-- Aligning detection, response, and quarantine logic with the broader simulation environment  
+The project mirrors this reality by simulating how a cloud-based research center (GVRDC) would:
+
+- Detect early indicators of compromise  
+- Contain an active threat before data exposure  
+- Maintain auditability and documentation for compliance  
+- Demonstrate that automated response (“the cyber vaccine”) can drastically reduce breach impact  
+
+This context grounds the technical work in a **mission-critical, regulated industry**—a domain where strong security design truly matters.
 
 ---
 
-Together, these components form **one comprehensive team project** simulating real-world cloud security operations, incident response, and automated containment workflows.
+### **Project Overview — One Integrated System**
+
+The capstone is structured as a crisis narrative:
+
+- **GVRDC (Global Viral Research Defense Center)** provides the *environmental and architectural backbone*  
+- **SOC it to ’EM SIEMlessly** provides the *detection, enrichment, and automated response pipeline*
+
+Together, they simulate how a healthcare research organization responds to a cyber “pathogen outbreak” in real time.
+
+---
+
+### **Architectural & Technical Components**
+
+#### **1. Cloud-Native Detection & Log Pipeline**  
+Engineering a production-inspired ingestion and analysis workflow:
+
+- CloudTrail → CloudWatch Logs → S3 → Athena  
+- Structured queries for threat hunting and timeline reconstruction  
+- Evidence tagging and log normalization for triage and forensic review  
+
+#### **2. Detection Engineering (“Patient Zero” Analysis)**  
+Building rules and correlations that uncover:
+
+- IAM misuse  
+- Lateral movement attempts  
+- Suspicious API activity  
+- Unauthorized access signatures  
+- MITRE ATT&CK mapping to classify “strain behavior”  
+
+This forms the investigative backbone of the documentary-style middle section of the presentation.
+
+#### **3. Automated Containment (“The Cyber Vaccine”)**  
+Designing IR automation aligned with HIPAA principles:
+
+- EventBridge triggers  
+- Lambda-based containment actions  
+- Automated isolation of compromised IAM identities  
+- Verification steps to ensure containment was successful  
+
+Just as a medical response contains a biological pathogen, automation acts as the *cyber vaccine* that neutralizes threats before they spread.
+
+---
+
+### **Role-Based Contributions (Aligned to Presentation Roles)**
+
+- **Your role — Data Quarantine Architect**  
+  - Presented the “Patient Zero Files”  
+  - Analyzed CloudTrail + GuardDuty evidence  
+  - Established the initial compromise vector  
+  - Demonstrated how logs told the story of the outbreak  
+  - Supported automated containment design with data flow verification  
+
+- **Team roles (summarized)**  
+  - Triage, SIEM analysis, threat mapping, and live containment demo  
+  - All integrated into a realistic incident-response narrative  
+
+---
+
+### **Why This Project Matters for Employers**  
+This capstone demonstrates that you can:
+
+- Operate within **regulated industries** (HIPAA context)  
+- Build **real detection and response pipelines**  
+- Implement **cloud-native security automation**  
+- Work effectively in a **SOC-style team structure**  
+- Produce documentation and evidence that leadership, auditors, and engineers all understand  
+
+For hiring managers, it signals readiness for roles in:
+
+- Cloud SOC  
+- Detection & Response  
+- Security Operations  
+- Cloud Security Analysis  
+- Healthcare Security / Compliance-adjacent roles  
 
 ---
 
