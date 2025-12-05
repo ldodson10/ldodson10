@@ -22,24 +22,37 @@ Current focus: building real-world SOC workflows and documented AWS security lab
 
 ---
 
-### **Data Quarantine Architect / Automation Engineer — Team Projects**
+### **Data Quarantine Architect / Automation Engineer — Team Project**
 
-#### **“SOC it to ’EM SIEMlessly” (Sprint 6)**
+#### **Collaborative Project: SOC it to ’EM SIEMlessly / GVRDC**
 
-A multi-tenant, AWS-native security monitoring project focusing on:
+A unified, multi-phase AWS-native security monitoring and incident response project developed collaboratively by the team. The work integrates two major components:
 
-- **Log ingestion**, **enrichment**, and **detection logic**
-- Building an automated pipeline using **CloudTrail → CloudWatch Logs → S3 → Athena**
-- Implementing **containment automation** via EventBridge + Lambda
-- Producing **architecture diagrams, runbooks, IAM reviews**, and evidence-rich documentation
+---
 
-#### **“Global Viral Research Defense Center (GVRDC)”**
+#### **1. SOC it to ’EM SIEMlessly (Sprint 6 Focus)**  
+Engineering the detection and automated response layer of the project:
 
-Designing cloud security architectures centered on:
+- Designing the **log ingestion and enrichment pipeline**  
+  CloudTrail → CloudWatch Logs → S3 → Athena  
+- Creating **detection logic** aligned with cloud activity patterns  
+- Developing **automated containment workflows** using EventBridge + Lambda  
+- Producing **architecture diagrams, runbooks, IAM reviews**, and evidence-rich documentation  
+- Demonstrating real-world SOC workflows in a cloud-native environment  
 
-- **Data quarantine workflows**
-- AWS security monitoring and incident response simulations
-- Documented infrastructure patterns and AWS diagramming for team-based delivery
+---
+
+#### **2. Global Viral Research Defense Center (GVRDC)**  
+Building the architectural and environmental foundation that supports the SOC workflows:
+
+- Designing **data-quarantine–focused architectures** on AWS  
+- Implementing cloud security monitoring patterns for distributed environments  
+- Structuring infrastructure components and AWS diagramming for team-based delivery  
+- Aligning detection, response, and quarantine logic with the broader simulation environment  
+
+---
+
+Together, these components form **one comprehensive team project** simulating real-world cloud security operations, incident response, and automated containment workflows.
 
 ---
 
