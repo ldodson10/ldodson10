@@ -90,7 +90,7 @@ Just as a medical response contains a biological pathogen, automation acts as th
 
 ### **Role-Based Contributions (Aligned to Presentation Roles)**
 
-- **Your role — Data Quarantine Architect**  
+- **My role — Data Quarantine Architect**  
   - Presented the “Patient Zero Files”  
   - Analyzed CloudTrail + GuardDuty evidence  
   - Established the initial compromise vector  
@@ -104,7 +104,7 @@ Just as a medical response contains a biological pathogen, automation acts as th
 ---
 
 ### **Why This Project Matters for Employers**  
-This capstone demonstrates that you can:
+This capstone demonstrates that I can:
 
 - Operate within **regulated industries** (HIPAA context)  
 - Build **real detection and response pipelines**  
