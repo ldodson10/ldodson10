@@ -7,28 +7,49 @@
 
 **Cybersecurity Fellow | Detection & Response | Cloud Security | Creative Technologist**
 
-I design, document, and defend systems at the intersection of **cloud security**, **automation**, and **creative thinking**.  
-Current focus: building **real-world SOC workflows** and **documented AWS security labs** that hiring managers can actually read, understand, and trust.
+I design, document, and defend systems at the intersection of cloud security, automation, and creative thinking.
+Current focus: building real-world SOC workflows and documented AWS security labs that hiring managers can actually read, understand, and trust.
 
 ---
 
 ## 🔐 Current Roles & Focus
 
-- **Cybersecurity Fellow – The Knowledge House (Innovation Fellowship 2025)**
-  - Phase 2–4: advanced projects in **cloud security, SIEM, and incident response**
-  - Heavy emphasis on **documented labs**, **GitHub-driven portfolios**, and **team-based architectures**
+### **Cybersecurity Fellow — The Knowledge House (Innovation Fellowship 2025)**
 
-- **Data Quarantine / Automation Engineer (Team Projects)**
-  - **“SOC it to ’EM SIEMlessly”**  
-    - Multi-tenant security monitoring project with a focus on **log ingestion, enrichment, and detection logic**
-  - **“Global Viral Research Defense Center (GVRDC)”**  
-    - Designing data-quarantine-focused architectures on AWS for security monitoring and incident response
+- Advanced projects in **cloud security**, **SIEM**, and **incident response**
+- Emphasis on **documented labs**, reproducible workflows, and team-based architectures
+- Hands-on experience with **CloudTrail, CloudWatch Logs, S3, Athena, GuardDuty, Security Hub, Lambda**, and incident-driven automation
 
-- **Creative Consultant & Pet-Care Entrepreneur**
-  - Translating skills from **fashion, costume design, and brand storytelling** into:
-    - Clear technical documentation
-    - Human-friendly security narratives
-    - A long-term vision for **“The Pawtier House”**, a luxury pet-care and wellness brand
+---
+
+### **Data Quarantine Architect / Automation Engineer — Team Projects**
+
+#### **“SOC it to ’EM SIEMlessly” (Sprint 6)**
+
+A multi-tenant, AWS-native security monitoring project focusing on:
+
+- **Log ingestion**, **enrichment**, and **detection logic**
+- Building an automated pipeline using **CloudTrail → CloudWatch Logs → S3 → Athena**
+- Implementing **containment automation** via EventBridge + Lambda
+- Producing **architecture diagrams, runbooks, IAM reviews**, and evidence-rich documentation
+
+#### **“Global Viral Research Defense Center (GVRDC)”**
+
+Designing cloud security architectures centered on:
+
+- **Data quarantine workflows**
+- AWS security monitoring and incident response simulations
+- Documented infrastructure patterns and AWS diagramming for team-based delivery
+
+---
+
+### **Creative Consultant & Pet-Care Entrepreneur**
+
+Translating a background in **fashion, costume design, and brand storytelling** into:
+
+- Clear, human-centered **technical documentation**
+- Accessible security explanations for non-technical audiences
+- Long-term brand development for **The Pawtier House**, a luxury pet-care and wellness concept
 
 ---
 
