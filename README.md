@@ -236,33 +236,62 @@ A small but practical serverless pattern:
 
 ---
 
-### 3. “SOC it to ’EM SIEMlessly” – Team SOC / SIEM Project
-**Repo(s):** [SOC it to ’EM SIEMlessly] (https://github.com/ldodson10/SOC-it-to-EM-SIEMlessly)
+### 3. GVRDC Cyber Crisis — “SOC it to ’EM SIEMlessly” (Unified Team Capstone)
+Repo(s):  
+- SOC it to 'EM SIEMlessly: https://github.com/ldodson10/SOC-it-to-EM-SIEMlessly  
+- GVRDC AWS Infra: https://github.com/nyahhepburn/gvrdc-aws-infra  
 
-**Problem space:** How can a small SOC (or MSSP) provide **repeatable, multi-tenant security monitoring** without drowning in manual work?
+A single end-to-end, multi-phase capstone project simulating a cyber crisis inside a healthcare research environment, inspired by real HIPAA regulatory pressure and the crisis narrative of films like *Contagion*.  
+The project unifies **detection engineering**, **log ingestion**, **cloud forensics**, and **automated containment** into one integrated system.
 
-**My contributions**
-- Helped design and reason about:
-  - Log ingestion flows
-  - Detection logic tied to practical attack scenarios
-  - Evidence and architecture documentation
-- Collaborated with a cross-functional team of fellows, pairing **technical setup** with **clear write-ups** (what we did, why it matters, how to extend it)
+#### **Problem Space**
+How can a small cloud-based SOC (or MSSP) detect, investigate, and automatically contain high-risk security events in a healthcare research environment—without drowning in manual work or violating compliance expectations?
+
+#### **Healthcare & HIPAA Context**
+Healthcare organizations face strict regulatory requirements and higher consequences for breaches.  
+This project models a research center (GVRDC) where:
+
+- Logs represent “patient zero evidence”  
+- Attacks simulate pathogen spread  
+- Containment automation functions as a “cyber vaccine”  
+- Documentation supports auditability and HIPAA-aligned investigation  
+
+This creates a realistic, high-impact crisis narrative that demonstrates why security automation matters.
+
+#### **My Contributions (Data Quarantine Architect)**
+- Designed and reasoned through the **AWS-native log ingestion flow**:  
+  CloudTrail → CloudWatch Logs → S3 → Athena  
+- Conducted **forensic analysis** of “patient zero” activity  
+- Wrote detection logic aligned with real cloud misuse patterns  
+- Produced evidence-driven architecture documentation  
+- Collaborated with team roles to pair technical setup with clear write-ups  
+- Identified IAM permission blockers and documented intended architecture, constraints, and recovery steps
+
+#### **Technical Focus Areas**
+- Detection rule development  
+- Timeline reconstruction using Athena + CloudTrail  
+- EventBridge → Lambda automated containment  
+- VPC + S3 logging foundations for evidence preservation  
+- Clear, repeatable documentation for engineering + executive audiences
+
+This is the team’s flagship project and represents the bulk of my Sprint 6 deliverables.
 
 ---
 
-### 4. GVRDC AWS Infra – “Data Quarantine Architect”
-**Repo:** [gvrdc-aws-infra] (https://github.com/nyahhepburn/gvrdc-aws-infra)  <br>
-**Scenario:** A global research defense center needs a secure, well-logged cloud footprint.
+### 4. Windows Server 2022 Deployment Lab  
+Repo:  
+Windows Server 2022 enterprise deployment lab – VirtualBox environment simulating Active Directory, DNS, and domain configuration: https://github.com/ldodson10/windows-server-2022-deployment-lab  
 
-**My focus**
-- VPC and S3 setup for logging and “data quarantine” concepts
-- Ensuring CloudTrail and VPC Flow Logs were wired into a logging S3 bucket
-- Contributing to **architecture diagrams** and **compliance/governance views**:
-  - CloudTrail → S3 (log bucket with versioning)
-  - (Planned) Glue + Athena for queryable logs
-  - DynamoDB / other stores for future state tracking
+A standalone VirtualBox lab simulating a small enterprise Active Directory environment used to build foundational on-premise IT and security skills.
 
-**Key strength:** When AWS permissions blocked certain pieces, I still documented the **intended architecture**, constraints, and next steps like a real-world engineer would.
+#### **What the lab includes**
+- Windows Server 2022 configuration  
+- Active Directory Domain Services  
+- DNS, user/group creation, and basic domain hardening  
+- Enterprise-style network segmentation concepts  
+
+#### **Purpose**
+This lab demonstrates understanding of traditional IT infrastructure—knowledge still required for real SOC and IR roles, especially when hybrid cloud environments are involved.
 
 ---
 
